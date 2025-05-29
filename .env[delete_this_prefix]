@@ -1,0 +1,7 @@
+ALPHA_KEY=ключ_від_AlphaVantage
+
+DB_NAME=sp500
+DB_USER=користувач
+DB_PASSWORD=пароль
+DB_HOST=хост
+DB_PORT=порт
