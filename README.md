@@ -24,8 +24,8 @@
 ### 1. Клонування репозиторію
 
 ```
-git clone 
-cd S&P_500
+git clone https://github.com/ValentynSaska/S-P_500_API_TEST.git
+cd S-P_500_API_TEST
 ```
 ### 2. Встановлення залежностей
 
